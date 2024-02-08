@@ -145,5 +145,5 @@ function analyzeDataset(data) {
   resultsElement.innerHTML = resultsHTML;
 }
 
-// Call the function with the provided dataset
+// Call the function with the provided datasets
 analyzeDataset(finances);
